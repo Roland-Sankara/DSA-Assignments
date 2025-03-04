@@ -18,3 +18,19 @@ Collection of Assignments on Data Structures and Algorithms
 
 #### Screen shot of the output
 ![assignment one](./screenshots/average-calculation-program-output.png)
+
+
+### 2. Assignment Two - Join Arrays of wild Animals
+```
+/**
+ Question:
+ Write a C program that accepts a group of; 
+ - N domestic animals and a group of
+ - and X wild animals
+ your program should print (n+x) animals after entering each group
+*/
+```
+[Click here to see the C program that solves this.](./Week-1/joinArrays.c)
+
+#### Screen shot of the output
+![assignment two](./screenshots/joinArrays.png)
