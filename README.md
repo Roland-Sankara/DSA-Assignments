@@ -1,6 +1,11 @@
 # DSA-Assignments
 Collection of Assignments on Data Structures and Algorithms
 
+## Week Two
+
+
+## Week One
+
 ### 1. Assignment One - Calculate Average Score
 ```
 /**
