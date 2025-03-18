@@ -1,7 +1,12 @@
 # DSA-Assignments
 Collection of Assignments on Data Structures and Algorithms
 
+
 ## Week Two
+👉📍 We learned about Algorithms and Perfrmance analysis.
+
+[Click here for the solutions to class assignments](./Week-2-Algorithms&BigOh/solutions.md)
+
 
 
 ## Week One
